@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "68f726b8ab21bbd2f3391c77"
+  },
+  "name": "Ravi Teja",
+  "age": 21,
+  "year": 3,
+  "village": "Ramavarpadu"
+},
+{
+  "_id": {
+    "$oid": "68f726c4ab21bbd2f3391c78"
+  },
+  "name": "Asha",
+  "age": 20,
+  "year": 2,
+  "village": "Paluru"
+},
+{
+  "_id": {
+    "$oid": "68f726c4ab21bbd2f3391c79"
+  },
+  "name": "Kiran",
+  "age": 22,
+  "year": 4,
+  "village": "Rajamandury"
+},
+{
+  "_id": {
+    "$oid": "68f72fd86aafa75711953a9e"
+  },
+  "name": "Surya",
+  "age": "21",
+  "village": "Tanuku"
+},
+{
+  "_id": {
+    "$oid": "68f72fef6aafa75711953a9f"
+  },
+  "name": "Leela",
+  "age": "21",
+  "village": "Anakapalli"
+},
+{
+  "_id": {
+    "$oid": "68f72ffa6aafa75711953aa0"
+  },
+  "name": "Kiran",
+  "age": "21",
+  "village": "Pallakollu"
+},
+{
+  "_id": {
+    "$oid": "68f730246aafa75711953aa1"
+  },
+  "name": "puula palli",
+  "age": "21",
+  "village": "palakollu"
+},
+{
+  "_id": {
+    "$oid": "68f730506aafa75711953aa2"
+  },
+  "name": "Ram Teja",
+  "age": "21",
+  "village": "doddipatla"
+},
+{
+  "_id": {
+    "$oid": "68f730746aafa75711953aa3"
+  },
+  "name": "Yaswanth",
+  "age": "21",
+  "village": "Undi"
+},
+{
+  "_id": {
+    "$oid": "68f7308f6aafa75711953aa4"
+  },
+  "name": "Divya",
+  "age": "19",
+  "village": "Narsapuram"
+},
+{
+  "_id": {
+    "$oid": "68f730bf6aafa75711953aa5"
+  },
+  "name": "Ravi Teja",
+  "age": "21",
+  "village": "Pedda Lanka"
+},
+{
+  "_id": {
+    "$oid": "68f730dd6aafa75711953aa6"
+  },
+  "name": "Tony",
+  "age": "21",
+  "village": "Tadepalligudem"
+},
+{
+  "_id": {
+    "$oid": "68f7313d6aafa75711953aa7"
+  },
+  "name": "Varsha",
+  "age": "19",
+  "profession": "GR",
+  "village": "Paluru"
+},
+{
+  "_id": {
+    "$oid": "68f731696aafa75711953aa8"
+  },
+  "name": "chiru",
+  "age": "20",
+  "profession": "GR",
+  "village": "Palli"
+},
+{
+  "_id": {
+    "$oid": "68f731866aafa75711953aa9"
+  },
+  "name": "kesav",
+  "age": "20",
+  "profession": "CR",
+  "village ": "Tanuku"
+},
+{
+  "_id": {
+    "$oid": "68f731a26aafa75711953aaa"
+  },
+  "name": "Mojesh",
+  "age": "20",
+  "profession": "GR",
+  "village": "Hostel"
+}]
